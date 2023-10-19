@@ -1,0 +1,36 @@
+@import url("../CSS/master.css");
+
+.footer {
+    background-color: #26303a !important;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.social-icons {
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-icons a:last-child {
+    margin-right: 0;
+}
+
+.social-icons img {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+
+.footer_paragraph {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+}

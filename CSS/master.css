@@ -1,0 +1,20 @@
+body, html {
+    background-color: #26303a !important;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* display: flex;
+    flex-direction: column; */
+    /* color: mediumblue; */
+}
+
+.dummy-data {
+    margin-top: 200px;
+}
+
+.user-details {
+    color: white;
+    font-size: 20px;
+    margin-top: 250px;
+}
